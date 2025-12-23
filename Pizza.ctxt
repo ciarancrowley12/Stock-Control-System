@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pizza
+comment0.text=\r\n//Ciaran\ Crowley\r\n//C24335666\r\n
+comment1.params=
+comment1.target=Pizza()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pizza\r\n
+comment2.params=price\ stock\ orderNum\ TypeOfPizza
+comment2.target=Pizza(double,\ int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTypeOfPizza()
+comment4.params=TypeOfPizza
+comment4.target=void\ setTypeOfPizza(java.lang.String)
+numComments=5

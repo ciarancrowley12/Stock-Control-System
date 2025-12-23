@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ItalianCuisine
+comment1.params=
+comment1.target=ItalianCuisine()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ italianCuisine\r\n
+comment2.params=price\ stock\ orderNum
+comment2.target=ItalianCuisine(double,\ int,\ int)
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=int\ getStock()
+comment5.params=
+comment5.target=int\ getOrderNum()
+comment6.params=price
+comment6.target=void\ setPrice(double)
+comment7.params=stock
+comment7.target=void\ setStock(int)
+comment8.params=orderNum
+comment8.target=void\ setOrderNum(int)
+numComments=9
