@@ -1,7 +1,5 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+A basic java stock control system that lets the user sign in as a customer or staff member to update the stock / add stock and buy items
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Stock control system 
