@@ -145,7 +145,7 @@ public class Driver
         System.out.println("2. Add new type of pizza"); 
         System.out.println("3. Add new type of pasta"); 
         System.out.println("4. Update stock levels");
-        System.out.println("5. Stock adviser"); //extra action
+        System.out.println("5. Stock adviser"); 
         System.out.println("6. Exit staff menu");
 
         do{
@@ -225,7 +225,7 @@ public class Driver
         }
     }
 
-    public void displayAllPasta() //Create and add the display all products for sale method - task 8
+    public void displayAllPasta() 
     {
         boolean found = false;
 
@@ -277,7 +277,7 @@ public class Driver
         System.out.println("New pasta added to stock.");
     }
 
-    public void displayAllPizza() //Create and add the display all products for sale method - task 8
+    public void displayAllPizza() 
     {
         boolean found = false;
 
@@ -383,7 +383,7 @@ public class Driver
     }
 
     public void buyPizza(Customer customer) 
-    { //Create and add the buy product option - task 9
+    { 
         int quantity;
         Scanner scan = new Scanner(System.in);
 
@@ -438,7 +438,7 @@ public class Driver
     }
 
     public void buyPasta(Customer customer) 
-    { //Create and add the buy product option - task 9
+    { 
         int quantity;
         Scanner scan = new Scanner(System.in);
 
@@ -493,9 +493,9 @@ public class Driver
     }
 
     public void displayCustomerPurchases() 
-    { //Create and add the display list of customers and products they have bought method - task 12
+    { 
         System.out.println("List of customers and their purchases:");
-        // Lists their most recent purchase as explained by the customer instructions on the assignment brief
+        
         System.out.println("--------------------------------------------------");
 
         int quantity;
@@ -542,7 +542,7 @@ public class Driver
     }
 
     public void stockAdviser() {
-        // extra action
+        
         boolean found = false;
         System.out.println("Stock Adviser");
         System.out.println("Our system advises you to update the following using the update stock levels function: \n");
