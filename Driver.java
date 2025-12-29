@@ -1,7 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 //Ciaran Crowley
-//C24335666
 public class Driver
 {
     ArrayList<ItalianCuisine> productList;
